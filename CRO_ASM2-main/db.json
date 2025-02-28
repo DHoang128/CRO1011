@@ -1,0 +1,50 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Thức ăn cho chó",
+            "image": "https://vpet.vn/gh_image_1/thuc-an-cho-cho-meo-12912.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Thức ăn cho mèo",
+            "image": "https://petshopsaigon.vn/wp-content/uploads/2020/06/thuc-an-cho-meo-banner.jpg"
+        },
+        {
+            "id": 3,
+            "name": "TB khuyến mại",
+            "image": "https://theme.hstatic.net/1000238938/1000576591/14/banner_collection.jpg?v=325"
+        },
+        {
+            "id": 4,
+            "name": "Phụ Kiện chó mèo",
+            "image": "https://salt.tikicdn.com/cache/w1200/ts/product/ac/93/5c/ba7b08e1fa16c7a4c5c23d9570037ef3.JPG"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Bánh thưởng cho mèo",
+            "price": 50000,
+            "image": "https://www.petmart.vn/wp-content/uploads/2014/10/banh-thuong-cho-meo-vi-ca-ngu-vegebrand-orgo-cat-treats-tuna-fish-768x768.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Balo đựng chó mèo",
+            "price": 495000,
+            "image": "https://www.petmart.vn/wp-content/uploads/2021/08/balo-dung-cho-meo-phi-hanh-gia-loffe-bubble-bag-768x768.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Nệm chó mèo",
+            "price": 350000,
+            "image": "https://www.petmart.vn/wp-content/uploads/2019/04/nem-cho-cho-meo-hinh-vuong-thanh-cao-cham-bi-elite-768x768.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Thuốc dưỡng lông",
+            "price": 170000,
+            "image": "https://www.petmart.vn/wp-content/uploads/2019/04/thuoc-duong-long-cho-cho-vegebrand-bee-slurry-hair-beauty-400x400.jpg"
+        }
+    ]
+}
